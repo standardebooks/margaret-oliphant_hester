@@ -59,9 +59,9 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>https://gutenberg.org/ebooks/48197</dc:source>
-		<dc:source>https://gutenberg.org/ebooks/48198</dc:source>
-		<dc:source>https://gutenberg.org/ebooks/48199</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/48197</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/48198</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/48199</dc:source>
 		<dc:source>https://books.google.com/books?id=rqwEAQAAIAAJ</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
