@@ -66,16 +66,19 @@
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The daughter of a failed banker is drawn into conflict with her father’s cousin who saved the bank.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The bank owned by the Vernon family has a long and illustrious history in the town of Redborough—until its chief, John Vernon, brings it to its knees through mismanagement. He flees the country, and his cousin, Catherine Vernon, meets the crisis as the other shareholder, and at the expense of her own personal fortune. Under her competent leadership, the bank regains its past glories, and she becomes a wealthy philanthropist.&lt;/p&gt;
+			&lt;p&gt;As part of her largesse, Catherine provides for a number of her scattered relatives; after John Vernon’s death, she invites the impoverished widow to return to Redborough with her daughter, Hester. The first meeting of Catherine with Hester, still only fourteen, brings out an instinctive and mutual antipathy. Yet Hester longs to do something useful with her life, bold and even heroic, as Catherine had done. No such possibilities are open to her, however, and her life settles into a dull routine. This equilibrium is upset when one of Catherine’s “non-Vernon” relations arrives from London with his experience of life on the Stock Exchange. It is clear that this is as much Catherine’s story—framed by the hard-nosed realism of the banking world—as it is Hester’s, even though the younger woman gives her name as title to the novel.&lt;/p&gt;
+			&lt;p&gt;The depiction of Catherine Vernon’s hopes and fears, triumphs and tragedies, owes much to &lt;a href="https://standardebooks.org/ebooks/margaret-oliphant"&gt;Margaret Oliphant’s&lt;/a&gt; own lived experience. Oliphant was herself a competent manager with a huge capacity for work, but who had suffered much as a young woman. She understood, too, the challenges of providing for extended family, and the attractions and antipathies, as well as gratitude and resentment, that could grow between its members.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Hester&lt;/i&gt;, this social observation gains an additional edge by the dynamics of sexual politics which run through the novel. In spite of Oliphant’s intelligence and abilities—often thwarted, she thought, because she was a widowed woman—she was unpersuaded by those arguing for women’s suffrage: she wrote a critical review of &lt;a href="https://standardebooks.org/ebooks/john-stuart-mill"&gt;John Stuart Mill’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/john-stuart-mill/the-subjection-of-women"&gt;&lt;i&gt;The Subjection of Women&lt;/i&gt;&lt;/a&gt;. Yet &lt;i&gt;Hester&lt;/i&gt; remains equivocal about what prospects should be open to this intelligent and capable, yet frustrated young woman.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Hester&lt;/i&gt; has remained one of Oliphant’s most enduringly popular works, often reprinted, and now receiving increasing critical attention.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/48197</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/48198</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/48199</dc:source>
 		<dc:source>https://books.google.com/books?id=rqwEAQAAIAAJ</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hester</meta>
@@ -85,10 +88,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Margaret_Oliphant</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50048460</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Thomas Dewing</dc:contributor>
+		<meta property="file-as" refines="#artist">Dewing, Thomas</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Thomas Wilmer Dewing</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Thomas_Dewing</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr92038681</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Delphine Lettau</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Lettau, Delphine</meta>
