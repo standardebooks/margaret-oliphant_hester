@@ -51,8 +51,7 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"],
-[epub|type~="z3998:signature"]{
+[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
 /* end letters */
