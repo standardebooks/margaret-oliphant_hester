@@ -81,4 +81,14 @@ p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
 }
+
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
+
+/* If eliding within an epigraph, include this additional style: */
+[epub|type~="epigraph"] span.elision{
+	font-style: normal;
+}
 /* end verse */
