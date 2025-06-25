@@ -86,7 +86,7 @@
 		<dc:creator id="author">Margaret Oliphant</dc:creator>
 		<meta property="file-as" refines="#author">Oliphant, Margaret</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Margaret_Oliphant</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50048460</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50048460</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Thomas Dewing</dc:contributor>
 		<meta property="file-as" refines="#artist">Dewing, Thomas</meta>
