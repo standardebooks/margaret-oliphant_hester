@@ -68,7 +68,7 @@
 		<meta property="authority" refines="#subject-10">LCSH</meta>
 		<meta property="term" refines="#subject-10">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>The daughter of a failed banker is drawn into conflict with her father’s cousin who saved the bank.</dc:abstract>
+		<meta property="schema:abstract">The daughter of a failed banker is drawn into conflict with her father’s cousin who saved the bank.</meta>
 		<dc:description>
 			&lt;p&gt;The bank owned by the Vernon family has a long and illustrious history in the town of Redborough—until its chief, John Vernon, brings it to its knees through mismanagement. He flees the country, and his cousin, Catherine Vernon, meets the crisis as the other shareholder, and at the expense of her own personal fortune. Under her competent leadership, the bank regains its past glories, and she becomes a wealthy philanthropist.&lt;/p&gt;
 			&lt;p&gt;As part of her largesse, Catherine provides for a number of her scattered relatives; after John Vernon’s death, she invites the impoverished widow to return to Redborough with her daughter, Hester. The first meeting of Catherine with Hester, still only fourteen, brings out an instinctive and mutual antipathy. Yet Hester longs to do something useful with her life, bold and even heroic, as Catherine had done. No such possibilities are open to her, however, and her life settles into a dull routine. This equilibrium is upset when one of Catherine’s “non-Vernon” relations arrives from London with his experience of life on the Stock Exchange. It is clear that this is as much Catherine’s story—framed by the hard-nosed realism of the banking world—as it is Hester’s, even though the younger woman gives her name as title to the novel.&lt;/p&gt;
