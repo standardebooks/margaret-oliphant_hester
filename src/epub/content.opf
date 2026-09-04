@@ -37,16 +37,16 @@
 		<dc:title id="fulltitle">Hester: A Story of Contemporary Life</dc:title>
 		<meta property="file-as" refines="#fulltitle">Hester</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">England -- Fiction</dc:subject>
+		<dc:subject id="subject-1">England--Fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
-		<dc:subject id="subject-3">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-4">Love stories</dc:subject>
 		<dc:subject id="subject-5">Domestic fiction</dc:subject>
-		<dc:subject id="subject-6">Family-owned business enterprises -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Triangles (Interpersonal relations) -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Older women -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Conflict of generations -- Fiction</dc:subject>
-		<dc:subject id="subject-10">Women bankers -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Family-owned business enterprises--Fiction</dc:subject>
+		<dc:subject id="subject-7">Triangles (Interpersonal relations)--Fiction</dc:subject>
+		<dc:subject id="subject-8">Older women--Fiction</dc:subject>
+		<dc:subject id="subject-9">Conflict of generations--Fiction</dc:subject>
+		<dc:subject id="subject-10">Women bankers--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
